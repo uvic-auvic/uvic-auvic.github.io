@@ -1,0 +1,215 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Polaris 2018</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+	<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">AUVIC</a></h1>
+						
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="about.html">About</a></li>
+											<<li><a href="timeline.html">Timeline</a></li>
+											<li><a href="vehicles.html">Vehicles</a></li>
+											<<li><a href="team.html">The Team</a></li>
+											<li><a href="meeting.html">Meeting Times</a></li>
+											<li><a href="sponsors.html">Sponsors</a></li>
+											<li><a href="events.html">Events</a></li>
+											<li><a href="media.html">Media</a></li>
+											<li><a href="contact.html">Contact Us</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<article id="main">
+						<header>
+							<h2>Vehicles</h2>
+							
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+
+								<h3>Polaris 2018</h3>
+								<div class="box alt">
+									<div class="row uniform 50%">
+										<div class="12u"><span class="image fit"><img src="images/AUVIC-2018-Final-Assembly-REV52.jpg" alt="" /></span></div>
+											
+									</div>
+								</div>
+
+								<p>Polaris is an open-framed AUV, designed with a low vehicle aspect ratio to facilitate station-keeping. 
+									Polaris is equipped with 8 thrusters for 6 DOF control and has a large self-righting moment, 
+									achieved through the positioning of a 960 cubic inch, watertight electronics housing at the top of the AUV. 
+									Polaris’ subsystems are mounted to a plastic plate, produced using 2-axis manufacturing techniques. 
+									The ease of manufacturing of this plate makes Polaris a modular framework, as subsystems can be added 
+									and removed without significant modifications to the vehicle.
+								</p>
+
+								<h4>Key Stats</h4>
+								<p>Dry Weight: 90 lbs<br>
+									Overall Dimensions (excluding thrusters): 35 in L x 16.5 in W x 21.5 in H<br>
+									Depth Rating: 300 ft (torpedo actuator)
+								</p>
+
+								<h4>Mechanical Highlights</h4>
+								<h5>Accessible Main Electronics Housing: </h5>
+									To gain access to the main computer the two supporting clamps can be pivoted up and the main housing tube can be removed, 
+									revealing the internal electronics.
+									<br>
+									<div class="row uniform 50%">
+										<img src="images/ezgif.com-crop.gif" alt="" class="image fit"/>
+									</div>
+									<h5>Custom Designed Thrusters: </h5>
+									<p>
+									AUVIC has developed custom thrusters which consist of three main components: the shroud, the motors, 
+									and the propellers. Brushless DC motors were chosen due to their compatibility with freshwater. 
+									These are used in conjunction with modified carbon fiber quadcopter propellers, 
+									chosen due to their moderate pitch angle, motor-compatible mounting features, 
+									and thickness near the base which is desirable for producing thrust. 
+									The thruster shrouds contain a conical feature to direct fluid flow and are 3D printed using PLA, 
+									with a high infill and coated with 3D Print Coating. </p>
+									<div class="box alt">
+										<div class="row uniform 50%">
+											<div class="12u"><span class="image fit"><img src="images/motor_300px.png" alt="" /></span></div>
+														
+										</div>
+									</div>
+									<h5>
+									Golf Ball Dropper: </h5>
+									<p>
+									To drop golf balls on a target, Polaris is equipped with a golf ball dropper. 
+									Golf balls are loaded and stored in a compartment on the AUV. To release these golf balls, 
+									a stepper motor rotates inside a watertight housing. This stepper is magnetically coupled with the 
+									golf ball dropping mechanism, allowing the golf ball to fall and hit the target.
+									</p>
+									<div class="box alt">
+										<div class="row uniform 50%">
+											<div class="12u"><span class="image fit"><img src="images/BallDropper1.jpg" alt="" /></span></div>
+															
+										</div>
+									</div>
+									<br>
+									Torpedoes: <br>
+									Polaris is equipped with two 3D printed torpedoes. These torpedoes are propelled using compressed air 
+									stored inside a PVC cylinder and are actuated using a solenoid-controlled one-way valve. 
+									<br>
+									<div class="row uniform 50%">
+										<img src="images/IMG-3933.jpg" alt="" />
+									</div>
+									<br>
+									<h4>ELEC Highlights</h4>
+									Motor Controller: <br>
+									The motor controller was revised for 2018. In 2017, each motor controller could control up to 
+									three motors on one PCB. In order to control all six motors on Nautilus’, two motor controllers were needed.  
+									Early in the design process, AUVIC determined that Polaris was going to have eight motors to simplify 
+									the control algorithm. AUVIC also wanted to integrate all the electronic speed controllers (ESCs) into one housing. The motor controller was upgraded in order to control eight motors simultaneously, while also using the PCB as a busbar. 
+									Connectors on the motor control board were made reversible, to prevent damage to the motors if the 
+									connector were connected in reverse. The system was upgraded from a F0 micro to a F4, 
+									which has a floating point unit for PID controls and may be implemented in the future.
+									<br>
+									<div class="row uniform 50%">
+										<img src="images/mc.png" class="image fit" alt="" />
+									</div>
+									<br>
+									Power Board: <br>
+									The Power Regulation Board is a new PCB that is entering its manufacturing stage. The PCB will be the 
+									central power hub for all components on the submarine. The board selects either the batteries or a tethered 
+									power source to power the sub, and is capable of cutting power via an onboard microcontroller to various 
+									systems in the submarine. RoboSub Rules requires that the sub have a “kill switch”, with can be pulled by 
+									divers to cut power to the submarine. This is implemented by using a magnetic switch, which cuts power to 
+									the sub when the switch is pulled. The Power Regulation Board must also be able to handle enough current 
+									to power the eight motors. This board also acts as a monitor for the main housing of the submarine by 
+									monitoring the housings’ pressure, temperature and humidity. It comes with an onboard water sensor, 
+									and it has the capabilities to measure the external water pressure. It measures the current being 
+									drawn from both the batteries and by individual subsystems, and has the ability to connect and disconnect 
+									the batteries in parallel using control logic from the microcontroller. The board is fused to protect against 
+									shortcircuits in any of the subsystems.
+									<br>
+									<div class="row uniform 50%">
+										<img src="images/power_board.png" class="image fit" alt="" />
+									</div>
+									<br>
+									The board has a USB connector that can be used for USART communications. 
+									The microcontroller also has the capabilities to be powered either through USB or by the batteries, 
+									which is useful for debugging purposes, when batteries aren't available. The relays are used to 
+									switch between battery power and tether power, and will always chose tether power over battery power 
+									when the tether is available. This can be used to easily conserve battery life during testing.
+									<br>
+									<br>
+									Hydrophone Board: <br>
+									Sonar systems are an integral part of the submarine’s design. To complete many of the objectives 
+									in the competitions, the submarine must be able to locate pingers, or underwater speakers, 
+									emitting sound at fixed frequencies. The solve this problem, our submarine has an array of 
+									four hydrophones (underwater microphones). These hydrophones are all separated by a fixed/known 
+									distance. By analyzing the phase difference of the incoming waves to the array of hydrophones, 
+									we can triangulate the location of the pinger. To accomplish this, the hydrophone boards process 
+									and convert the incoming data.The hydrophone boards consist of two sub-boards: the microcontroller
+									board and the pre-amplification board. The pre-amplification board is placed at the same location 
+									as the hydrophones, in a small housing at the bottom of the submarine. The board amplifies all incoming 
+									signals from the hydrophones, and transmits them off to the main housing. In the main housing, the 
+									microcontroller board converts the analog signals to digital, and sends the digital data to the main 
+									computer.
+									<br>
+									<div class="row uniform 50%">
+										<img src="images/hydrophone_micro.png" alt="" class="image fit" />
+									</div>
+									<br>
+									<h4>Side Projects</h4>
+									Acoustic Underwater Pinger<br>
+									
+									Ni-Cd Battery Charger<br>
+								</p>
+
+							</p>
+
+								
+
+							</div>
+						</section>
+					</article>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/engrauvic/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+							<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>&copy; Outreach</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+
+</html>
