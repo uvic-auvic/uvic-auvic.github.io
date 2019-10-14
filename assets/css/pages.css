@@ -1,0 +1,12 @@
+.accordion {
+    background-color: rgba(0, 0, 0, 0.125);
+    color: #ffffff;
+    cursor: pointer;
+    padding:  0 2.75em;
+    width: 100%;
+    text-align: center;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+  
