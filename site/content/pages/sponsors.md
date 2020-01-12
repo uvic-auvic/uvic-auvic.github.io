@@ -1,0 +1,28 @@
++++
+date = "2017-05-17T13:03:58-04:00"
+title = "Sponsors"
+url = "/sponsors"
++++
+
+## SUPPORT THE TEAM
+
+You can support the team by giving a monetary or material donation. Or you can sponsor the team by funding a 2" x 2" square on the final submarine. Sponsorship includes the space on the final submarine, on the team’s shirts, and, on the AUVic website to advertise your company. The submarine will compete in this year’s RoboSub competition in San Diego, California and be taken along for outreach events. The logo on the submarine will expose your company to the international AUV community, local communities, and -- universities who participate in the competition. Email us at auvic@uvic.ca or give us a call at (250)-742-4178 if you are interested in supporting AUVIC.
+
+---
+
+
+## CURRENT SPONSORS
+AUVIC is a multi-disciplinary, student driven team that competes in the Robonation international competition, RoboSub. The team develops an AUV to complete challenges set by RoboSub administrators involving object manipulation, path tracking, acoustic beacon tracking, visual recognition, and obstacle avoidance. In past competitions, AUVIC has come in second place.
+
+![rainhouse](/img/rainhouse-logo.png)
+![uvicess](/img/uvicess-logo.png)
+![pcbway](/img/pcbway-logo.png)
+![oceannetworkscanada](/img/oceannetworkscanada-logo.png)
+![mathworks](/img/mathworks-logo.png)
+![unlimitedfabrication](/img/unlimitedfabrication-logo.png)
+![industrialpp](/img/industrialpp-logo.png)
+![solidworks](/img/solidworks-logo.png)
+
+---
+
+
