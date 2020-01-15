@@ -1,9 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "AUvic"
+title = "AUVIC"
 
 [params]
-  description = "AUvic club site. For info about team and competitions"
+  description = "AUVIC club site. For info about team and competitions"
 
 [[menu.main]]
     name = "About"
