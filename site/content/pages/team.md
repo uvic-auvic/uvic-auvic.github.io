@@ -105,13 +105,31 @@ Second year electrical engineering student that is speeding through her career. 
 
 Fourth year computer engineering student that formerly working for Intel. Damon likes to meet new people and try different activities. He is also a vegetarian that likes leafy foods, such as salads and spinach.
 
+
 <br/><br/><br/><br/>
 
 #### SOFTWARE TEAM
 
-**Anton Nikotenko**
-
+**Anton Nikotenko**: Third year software engineering student currently working for Codan Communications. Also working on OpenCV vision dection, and improvements to our code structure and workflow. Anton loves Summer.
+	
 <br/><br/>
+**Robert Keen**: Third year software engineering student. Currently developing OpenCV vision algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
+
+<br/><br/>							
+**Aman Nijjar**: Fourth year computer engineering student that enjoys building AUVs. Currently learning about machine learning with vision. His preffered sport is Basketball and can cook a mean omelet.
+
+<br/><br/>							**Huiwen Ren**: Third year computer science student. Currently working on OpenCV vision detection. Enjoys cold noodles.
+	
+<br/><br/>							
+**Liam Loucks**: Fouth year computer science student. Liam is a master of all things web related and is our current Webmaster.
+	
+<br/><br/>							
+**Oscar Morrison**: Second year computer science student. Currently working on OpenCV vision detection.
+	
+<br/><br/>								**Adam **Pachecoamit**: First year computer science student who enjoys learning about machine learning and music.</p>
+
+
+<br/><br/><br/><br/>
 
 #### MECHANICAL TEAM
 
@@ -121,6 +139,7 @@ Fourth year computer engineering student that formerly working for Intel. Damon 
 
 **Bob:**First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
+<br/><br/><br/><br/>
 #### ALUMNI
 
 **Silvano Todesco:**Electrical Engineer graduate working in Japan. Silvano revised the Polaris submarine's power regulation board.Enjoys traveling and spending time with his family.
