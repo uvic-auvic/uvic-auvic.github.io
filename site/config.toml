@@ -44,4 +44,9 @@ title = "AUVIC"
     name = "Team"
     url  = "/team"
     weight = 1
+    
+[[menu.main]]
+    name = "Vehicles"
+    url  = "/vehicles"
+    weight = 1
   
