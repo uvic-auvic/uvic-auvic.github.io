@@ -9,14 +9,17 @@ url = "/contact"
 Below is the contact information for AUVIC. For students interested in joining feel free to stop by the room to check us out! We are always happy to talk.
 
 ---
+
+
 ## CONTACT INFORMATION
 PHONE: 250-472-4178
-<br />
+<br>
 EMAIL: auvic@uvic.ca
-<br />
-FB Page: AUVIC
-<br />
+<br>
+[Facebook-Page](https://www.facebook.com/engrauvic/)
+https://www.facebook.com/engrauvic/
+<br>
 ROOM: ELWB250
-<br />
+<br>
 LOCATION: University of Victoria, B.C.
-<br />
+<br>
