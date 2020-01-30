@@ -20,9 +20,10 @@ and removed without significant modifications to the vehicle.
 
 <h4>Key Stats</h4>
 	
-							<p>Dry Weight: 90 lbs<br>
+<p>Dry Weight: 90 lbs<br>
 									Overall Dimensions (excluding thrusters): 35 in L x 16.5 in W x 21.5 in H<br>
 									Depth Rating: 300 ft (torpedo actuator)
+								</p>
 
 
 
