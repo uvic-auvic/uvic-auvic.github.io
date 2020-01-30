@@ -49,8 +49,12 @@ a stepper motor rotates inside a watertight housing. This stepper is magneticall
 
 
 #### Torpedoes: 
+
+
 <br>
+
 Polaris is equipped with two 3D printed torpedoes. These torpedoes are propelled using compressed air stored inside a PVC cylinder and are actuated using a solenoid-controlled one-way valve. 
+
 <br>
 
 
@@ -59,9 +63,13 @@ Polaris is equipped with two 3D printed torpedoes. These torpedoes are propelled
 
 
 #### ELEC Highlights
+
 Motor Controller: 
+
 <br>
+
 The motor controller was revised for 2018. In 2017, each motor controller could control up to three motors on one PCB. In order to control all six motors on Nautilus’, two motor controllers were needed. Early in the design process, AUVIC determined that Polaris was going to have eight motors to simplify the control algorithm. AUVIC also wanted to integrate all the electronic speed controllers (ESCs) into one housing. The motor controller was upgraded in order to control eight motors simultaneously, while also using the PCB as a busbar. Connectors on the motor control board were made reversible, to prevent damage to the motors if the connector were connected in reverse. The system was upgraded from a F0 micro to a F4, which has a floating point unit for PID controls and may be implemented in the future.
+
 <br>
 
 
@@ -90,6 +98,7 @@ The board has a USB connector that can be used for USART communications. The mic
 <br>
 
 ####  Hydrophone Board: 
+
 <br>
 Sonar systems are an integral part of the submarine’s design. To complete many of the objectives in the competitions, the submarine must be able to locate pingers, or underwater speakers, emitting sound at fixed frequencies. The solve this problem, our submarine has an array of four hydrophones (underwater microphones). These hydrophones are all separated by a fixed/known distance. By analyzing the phase difference of the incoming waves to the array of hydrophones, we can triangulate the location of the pinger. To accomplish this, the hydrophone boards process and convert the incoming data.The hydrophone boards consist of two sub-boards: the microcontroller board and the pre-amplification board. The pre-amplification board is placed at the same location as the hydrophones, in a small housing at the bottom of the submarine. The board amplifies all incoming signals from the hydrophones, and transmits them off to the main housing. In the main housing, the microcontroller board converts the analog signals to digital, and sends the digital data to the main computer.
 <br>
