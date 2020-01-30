@@ -11,12 +11,7 @@ description: The AUVic Fleet
 ![Polaris ](/img/uploads/AUVIC-2018-Final-Assembly-REV52.jpg)
 
 
-Polaris is an open-framed AUV, designed with a low vehicle aspect ratio to facilitate station-keeping.
-Polaris is equipped with 8 thrusters for 6 DOF control and has a large self-righting moment,
-achieved through the positioning of a 960 cubic inch, watertight electronics housing at the top of the AUV.
-Polaris’ subsystems are mounted to a plastic plate, produced using 2-axis manufacturing techniques.
-The ease of manufacturing of this plate makes Polaris a modular framework, as subsystems can be added 
-and removed without significant modifications to the vehicle.
+Polaris is an open-framed AUV, designed with a low vehicle aspect ratio to facilitate station-keeping.Polaris is equipped with 8 thrusters for 6 DOF control and has a large self-righting moment,achieved through the positioning of a 960 cubic inch, watertight electronics housing at the top of the AUV. Polaris’ subsystems are mounted to a plastic plate, produced using 2-axis manufacturing techniques. The ease of manufacturing of this plate makes Polaris a modular framework, as subsystems can be added and removed without significant modifications to the vehicle.
 
 
 #### Key Stats
@@ -26,8 +21,6 @@ Dry Weight: 90 lbs
 Overall Dimensions (excluding thrusters): 35 in L x 16.5 in W x 21.5 in H
 <br>
 Depth Rating: 300 ft (torpedo actuator)
-
-
 
 
 
@@ -125,7 +118,7 @@ Ni-Cd Battery Charger
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-<h2><u> Legacy Builds </u></h2>
+## <u> Legacy Builds </u>
 
 
 # Red Herring
