@@ -2,7 +2,7 @@
 url: /team
 title: Team
 date: '2017-05-17T13:03:58-04:00'
-description: CURRENT MEMBERS
+description: CURRENT MEMBERS OF SPRING 2020
 ---
 ## ADMINISTRATION
 
@@ -19,29 +19,32 @@ A faculty member of the Mechanical Engineering Department whose research focuses
 
 ##### _PRESIDENT_
 
-##### **Robert Keen**
+**Aman Nijjar**
 
-Third year software engineering student establishing and maintaining connections with the UVic administration and outside parties. Currently developing OpenCV algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
+Fourth year computer engineering student that enjoys building AUVs. Currently designing sample subs with the mechanical team, mentoring electrical team members, and learning about machine learning with vision. His preffered sport is Basketball and can cook a mean omelets.
+
+[//]: # ##### **Robert Keen**
+[//]: # Third year software engineering student establishing and maintaining connections with the UVic administration and outside parties. Currently developing OpenCV algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 
 <br/><br/>
 
 ##### PROJECT MANAGER
 
-**Alec Cox**
-
-Fourth year software engineering student developing Polaris's motor control system.
+[//]: #**Alec Cox**
+[//]: #Fourth year software engineering student developing Polaris's motor control system.
 
 <br/><br/>
 
-##### TREASURER AND LEAD MECHANICAL ENGINEER
+##### LEAD MECHANICAL ENGINEER
 
-**Aman Nijjar**
 
-Fourth year computer engineering student that enjoys building AUVs. Currently designing sample subs with the mechanical team, mentoring electrical team members, and learning about machine learning with vision. His preffered sport is Basketball and can cook a mean omelets.
 
 <br/><br/>
 
 ##### LEAD ELECTRICAL ENGINEER
+**Poorna Chander kalidas**
+
+Fourth year electrical engineering student and former electrical lead on co-op for Tesla US. Attends weekly meetings and provides assistance when needed. Loves his motor controller bootloader.
 
 **Kevin House**
 
@@ -59,9 +62,7 @@ Rob is just a traveler in time working on 4th year studies in computer science. 
 
 #### ELECTRICAL TEAM
 
-**Poorna Chander kalidas**
 
-Fourth year electrical engineering student and former electrical lead on co-op for Tesla US. Attends weekly meetings and provides assistance when needed. Loves his motor controller bootloader.
 
 <br/><br/>
 
@@ -133,7 +134,7 @@ Fourth year computer engineering student that formerly working for Intel. Damon 
 
 #### MECHANICAL TEAM
 
-**Jason McCormick:**Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
+[//]: # **Jason McCormick:**Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
 
 **Karan Dere:**Second year mechanical engineering student designing new kill switch for Polaris. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.
 
