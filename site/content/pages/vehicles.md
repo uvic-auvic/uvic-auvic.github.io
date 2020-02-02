@@ -2,7 +2,7 @@
 url: /vehicles
 title: Vehicles
 date: 2020-01-27T04:19:13.502Z
-description: The AUVic Fleet
+description: The AUVIC Fleet
 ---
 
 
