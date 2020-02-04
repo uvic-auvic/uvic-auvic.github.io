@@ -1,14 +1,16 @@
-+++
-date = "2017-05-17T13:03:58-04:00"
-title = "Sponsors"
-url = "/sponsors"
-+++
+---
+url: /sponsors
+title: Sponsors
+date: '2017-05-17T13:03:58-04:00'
+description: Sponsors
+---
 
 ## SUPPORT THE TEAM
 
 You can support the team by giving a monetary or material donation. Or you can sponsor the team by funding a 2" x 2" square on the final submarine. Sponsorship includes the space on the final submarine, on the team’s shirts, and, on the AUVic website to advertise your company. The submarine will compete in this year’s RoboSub competition in San Diego, California and be taken along for outreach events. The logo on the submarine will expose your company to the international AUV community, local communities, and -- universities who participate in the competition. Email us at auvic@uvic.ca or give us a call at (250)-742-4178 if you are interested in supporting AUVIC.
 
----
+<button style="color:#008CBA;" name="button" onclick="https://extrweb.uvic.ca/donate-online/auvic">Sponsor AUvic</button>
+
 
 
 ## CURRENT SPONSORS
