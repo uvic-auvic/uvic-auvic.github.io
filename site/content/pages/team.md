@@ -127,42 +127,47 @@ Fourth year computer engineering student that formerly working for Intel. Damon 
 <br/><br/>							
 **Oscar Morrison**: Second year computer science student. Currently working on OpenCV vision detection.
 	
-<br/><br/>								**Adam **Pachecoamit**: First year computer science student who enjoys learning about machine learning and music.</p>
+<br/><br/>
+**Adam Pachecoamit**: 
+First year computer science student who enjoys learning about machine learning and music.</p>
 
 
 <br/><br/><br/><br/>
 
 #### MECHANICAL TEAM
 
-**Jason McCormick:**Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
+**Jason McCormick**:
+Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
 
-**Karan Dere:**Second year mechanical engineering student designing new kill switch for Polaris. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.
+**Karan Dere**:
+Second year mechanical engineering student designing new kill switch for Polaris. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.
 
-**Bob:**First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
+**Bob**:
+First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
 <br/><br/><br/><br/>
 #### ALUMNI
 
-**Silvano Todesco:**Electrical Engineer graduate working in Japan. Silvano revised the Polaris submarine's power regulation board.Enjoys traveling and spending time with his family.
+**Silvano Todesco**:
+Electrical Engineer graduate working in Japan. Silvano revised the Polaris submarine's power regulation board.Enjoys traveling and spending time with his family.
 
-**Chris Carpenter:**
+**Chris Carpenter**
 
-**Andy Bates:**
+**Andy Bates**
 
-**Kiera Lane:**
+**Kiera Lane**
 
-**Angel Manguerra:**
+**Angel Manguerra**
 
-**Shan Leung:**
+**Shan Leung**
 
-**Lyden Carvalhal-Smith:**
+**Lyden Carvalhal-Smith**
 
-**Anuraag Sinha:**
+**Anuraag Sinha**
 
-**Keifer Alden:**
+**Keifer Alden**
 
-**RJ Aujla:**
+**RJ Aujla**
 
 <!--EndFragment-->
 
-####
