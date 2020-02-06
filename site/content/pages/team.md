@@ -36,7 +36,7 @@ Fourth year software engineering student developing Polaris's motor control syst
 <br/><br/>
 
 ##### LEAD MECHANICAL ENGINEER
-
+Open Position
 
 
 <br/><br/>
@@ -60,47 +60,44 @@ Rob is just a traveler in time working on 4th year studies in computer science. 
 
 <br/><br/><br/><br/>
 
-#### ELECTRICAL TEAM
+## ELECTRICAL TEAM
 
-
-
-<br/><br/>
 
 **Gabriel Green**
 
 Fifth year electrical engineering student preparing to graduate UVic. Currently passing on knowledge of embedded systems and submarine design to new members. Designing Hydrophone pre-amplifier with Kevin House. Enjoys biking and traveling to Vancouver.
 
-<br/><br/>
+<br/>
 
 **Miguel Manguerra**
 
 Second year computer engineering student working hard and developing a pinger and battery charger. Quick to learn new things and loves to develop hardware. Enjoys playing team-based video games.
 
-<br/><br/>
+<br/>
 
 **Shuhang Tan**
 
 Second year electrical engineering student showing dedication and participation. Good future and enjoys playing the piano for friends and family. Currently on co-op in China.
 
-<br/><br/>
+<br/>
 
 **Jason Poon**
 
 Fourth year computer student working on the RPM controller for the motor controller. Enjoys working for the club and learning new concepts.
 
-<br/><br/>
+<br/>
 
 **Carter Cooper**
 
 Second year electrical engineering student learning how to program our stm boards and fix power supplies. Hobbies include sitting still and not talking. Big proponent of being a good person.
 
-<br/><br/>
+<br/>
 
 **Marie Nikkel**
 
 Second year electrical engineering student that is speeding through her career. Marie is developing a PCB to display our submarines status through LEDs!!! and also learning some firmware on the side, with 6 classes to boot! She enjoys living life on the edge with her roomates.
 
-<br/><br/>
+<br/>
 
 **Damon Aknuh**
 
@@ -109,44 +106,55 @@ Fourth year computer engineering student that formerly working for Intel. Damon 
 
 <br/><br/><br/><br/>
 
-#### SOFTWARE TEAM
+## SOFTWARE TEAM
 
 **Anton Nikotenko**: Third year software engineering student currently working for Codan Communications. Also working on OpenCV vision dection, and improvements to our code structure and workflow. Anton loves Summer.
 	
-<br/><br/>
+<br/>
+
 **Robert Keen**: Third year software engineering student. Currently developing OpenCV vision algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 
 <br/><br/>							
 **Aman Nijjar**: Fourth year computer engineering student that enjoys building AUVs. Currently learning about machine learning with vision. His preffered sport is Basketball and can cook a mean omelet.
 
-<br/><br/>							**Huiwen Ren**: Third year computer science student. Currently working on OpenCV vision detection. Enjoys cold noodles.
+<br/>
+							
+**Huiwen Ren**: Third year computer science student. Currently working on OpenCV vision detection. Enjoys cold noodles.
 	
-<br/><br/>							
+<br/>
+							
 **Liam Loucks**: Fouth year computer science student. Liam is a master of all things web related and is our current Webmaster.
 	
-<br/><br/>							
+<br/>
+							
 **Oscar Morrison**: Second year computer science student. Currently working on OpenCV vision detection.
 	
-<br/><br/>
+<br/>
+
 **Adam Pachecoamit**: 
 First year computer science student who enjoys learning about machine learning and music.</p>
 
 
 <br/><br/><br/><br/>
 
-#### MECHANICAL TEAM
+## MECHANICAL TEAM
 
 **Jason McCormick**:
 Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
 
+<br/>
+
 **Karan Dere**:
 Second year mechanical engineering student designing new kill switch for Polaris. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.
+
+<br/>
 
 **Bob**:
 First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
 <br/><br/><br/><br/>
-#### ALUMNI
+
+## ALUMNI
 
 **Silvano Todesco**:
 Electrical Engineer graduate working in Japan. Silvano revised the Polaris submarine's power regulation board.Enjoys traveling and spending time with his family.
