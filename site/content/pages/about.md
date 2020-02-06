@@ -1,8 +1,9 @@
-+++
-date = "2017-05-17T13:03:58-04:00"
-title = "About"
-url = "/about"
-+++
+---
+url: /about
+title: About
+date: '2017-05-17T13:03:58-04:00'
+description: About the club
+---
 
 ## AUVIC
 
