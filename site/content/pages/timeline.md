@@ -1,8 +1,9 @@
-+++
-date = "2017-05-17T13:03:58-04:00"
-title = "Timeline"
-url = "/timeline"
-+++
+---
+url: /timeline
+title: Timeline
+date: '2017-05-17T13:03:58-04:00'
+description: Timeline of events
+---
 
 ## TO BE ADDED
 
