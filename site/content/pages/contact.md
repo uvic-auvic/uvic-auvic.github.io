@@ -1,8 +1,9 @@
-+++
-date = "2017-05-17T13:03:58-04:00"
-title = "Contact"
-url = "/contact"
-+++
+---
+url: /contact
+title: Contact
+date: '2017-05-17T13:03:58-04:00'
+description: Contact us
+---
 
 
 ---
@@ -13,13 +14,22 @@ Below is the contact information for AUVIC. For students interested in joining f
 
 ## CONTACT INFORMATION
 PHONE: 250-472-4178
-<br>
+
+<br/>
+
 EMAIL: auvic@uvic.ca
-<br>
+
+<br/>
+
 [Facebook-Page](https://www.facebook.com/engrauvic/)
 https://www.facebook.com/engrauvic/
-<br>
+
+<br/>
+
 ROOM: ELWB250
+
 <br>
+
 LOCATION: University of Victoria, B.C.
+
 <br>
