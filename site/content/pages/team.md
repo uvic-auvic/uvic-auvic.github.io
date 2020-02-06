@@ -23,15 +23,15 @@ A faculty member of the Mechanical Engineering Department whose research focuses
 
 Fourth year computer engineering student that enjoys building AUVs. Currently designing sample subs with the mechanical team, mentoring electrical team members, and learning about machine learning with vision. His preffered sport is Basketball and can cook a mean omelets.
 
-[//]: # ##### **Robert Keen**
-[//]: # Third year software engineering student establishing and maintaining connections with the UVic administration and outside parties. Currently developing OpenCV algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
+**Robert Keen**
+Third year software engineering student establishing and maintaining connections with the UVic administration and outside parties. Currently developing OpenCV algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 
 <br/><br/>
 
 ##### PROJECT MANAGER
 
-[//]: #**Alec Cox**
-[//]: #Fourth year software engineering student developing Polaris's motor control system.
+**Alec Cox**
+Fourth year software engineering student developing Polaris's motor control system.
 
 <br/><br/>
 
@@ -134,7 +134,7 @@ Fourth year computer engineering student that formerly working for Intel. Damon 
 
 #### MECHANICAL TEAM
 
-[//]: # **Jason McCormick:**Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
+**Jason McCormick:**Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
 
 **Karan Dere:**Second year mechanical engineering student designing new kill switch for Polaris. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.
 
