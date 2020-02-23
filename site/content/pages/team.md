@@ -34,7 +34,7 @@ Third year software engineering student establishing and maintaining connections
 
 ##### LEAD MECHANICAL ENGINEER
 
-**Bob**:
+**Bob Noakes**:
 First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
 <br/><br/>
