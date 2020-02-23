@@ -14,21 +14,17 @@ Member of the University of Victoria's Mechanical Engineering Department. Dr. Bu
 ### Administration
 
 **President - Aman Nijjar**
-
 Fourth year computer engineering student with an interest in underwater communication. His preferred sport is Basketball and enjoys cooking different omelets.
 
 **Project Manager - Anton Nikotenko** 
-
 Third year software engineering student currently working for Codan Communications. Also working on OpenCV vision dection and improvements to our code structure and workflow. Anton loves Summer.
 
 **VP of External Affairs - Karan Dere**
-
 Second year mechanical engineering student. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.
 
 ### Electrical team
 
 **Lead Electrical Engineer - Poorna Chander Kalidas**
-
 Fourth year electrical engineering student and talented firmware developer for Tesla US. Poorna is developing new firmware architecture, while training team on good practices.
 
 **Miguel Manguerra**
@@ -53,10 +49,9 @@ Fourth year electrical engineering student and talented firmware developer for T
 
 **Aman Nijjar**
 
-## SOFTWARE TEAM
+## Software Team
 
 **Lead Software Engineer - Rob Wasmann**
-
 Rob is just a traveler in time working on 4th year studies in computer science. When not at the beach, he’s doing dev on the AI algorithms that ultimately drive Polaris. Rob has previously published several apps and games in the iOS App Store.
 
 **Oscar**
@@ -69,10 +64,9 @@ Rob is just a traveler in time working on 4th year studies in computer science. 
 
 **Liam**
 
-### MECHANICAL TEAM
+### Mechanical Team
 
 **Lead Mechanical Engineer - Bob Noakes**:
-
 First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
 **Karan Dere**
@@ -80,47 +74,47 @@ First year mechanical engineering graduate student working with the bio-medical 
 **Peyton Avigdor**
 
 **Terry Welton**
-
+<!-- WAY To glitchy, figure out later
 ## ALUMNI
 
-* 2000-2020:
-  **Gabriel Green**,
-  **Silvano Todesco**,
-  **Chris Carpenter**,
-  **Andy Bates**,
-  **Kiera Lane**,
-  **Angel Manguerra**,
-  **Shan Leung**,
-  **Lyden Carvalhal-Smith**,
-  **Anuraag Sinha**,
-  **Keifer Alden**,
-  **RJ Aujla**
-
-<!-- \*\*Robert Keen\*\*
+2000-2020:
+**Gabriel Green**,
+**Silvano Todesco**,
+**Chris Carpenter**,
+**Andy Bates**,
+**Kiera Lane**,
+**Angel Manguerra**,
+**Shan Leung**,
+**Lyden Carvalhal-Smith**,
+**Anuraag Sinha**,
+**Keifer Alden**,
+**RJ Aujla**
+-->
+<!-- \\*\\*Robert Keen\\*\\*
 Third year software engineering student establishing and maintaining connections with the UVic administration and outside parties. Currently developing OpenCV algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 -->
 
-<!--\*\*Jason McCormick\*\*:
+<!--\\*\\*Jason McCormick\\*\\*:
 Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
 -->
 
-<!--\*\*Kevin House\*\*
+<!--\\*\\*Kevin House\\*\\*
 <p>Third year electrical engineering student with a background in construction. Developed the 2019 revision of the hydrophone pre-amplifier with Gabriel Green. Loves making music and DJing.</p>
 -->
 
-<!--\*\*Damon Aknuh\*\*
+<!--\\*\\*Damon Aknuh\\*\\*
 <p>Fourth year computer engineering student that formerly working for Intel. Damon likes to meet new people and try different activities. He is also a vegetarian that likes leafy foods, such as salads and spinach.</p>
 -->
 
-<!--\*\*Jason Poon\*\*
+<!--\\*\\*Jason Poon\\*\\*
 <p>Fourth year computer student working on the RPM controller for the motor controller. Enjoys working for the club and learning new concepts.</p>
 -->
 
-<!--\*\*Alec Cox\*\*
+<!--\\*\\*Alec Cox\\*\\*
 Fourth year software engineering student developing Polaris's motor control system.
 -->
 
-<!--\*\*Adam Pachecoamit\*\*: 
+<!--\\*\\*Adam Pachecoamit\\*\\*: 
 First year computer science student who enjoys learning about machine learning and music.</p>
 -->
 
