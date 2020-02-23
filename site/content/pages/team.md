@@ -8,8 +8,6 @@ description: CURRENT MEMBERS OF SPRING 2020
 
 <!--StartFragment-->
 
-
-
 **Faculty**
 
 **Dr. Bradley Buckham** 
@@ -30,18 +28,18 @@ Third year software engineering student establishing and maintaining connections
 
 ##### PROJECT MANAGER
 
-**Alec Cox**
-Fourth year software engineering student developing Polaris's motor control system.
+**Anton Nikotenko**: Third year software engineering student currently working for Codan Communications. Also working on OpenCV vision dection, and improvements to our code structure and workflow. Anton loves Summer.
 
 <br/><br/>
 
 ##### LEAD MECHANICAL ENGINEER
-Open Position
 
+Open Position
 
 <br/><br/>
 
 ##### LEAD ELECTRICAL ENGINEER
+
 **Poorna Chander kalidas**
 
 Fourth year electrical engineering student and former electrical lead on co-op for Tesla US. Attends weekly meetings and provides assistance when needed. Loves his motor controller bootloader.
@@ -61,13 +59,6 @@ Rob is just a traveler in time working on 4th year studies in computer science. 
 <br/><br/><br/><br/>
 
 ## ELECTRICAL TEAM
-
-
-**Gabriel Green**
-
-Fifth year electrical engineering student preparing to graduate UVic. Currently passing on knowledge of embedded systems and submarine design to new members. Designing Hydrophone pre-amplifier with Kevin House. Enjoys biking and traveling to Vancouver.
-
-<br/>
 
 **Miguel Manguerra**
 
@@ -103,37 +94,24 @@ Second year electrical engineering student that is speeding through her career. 
 
 Fourth year computer engineering student that formerly working for Intel. Damon likes to meet new people and try different activities. He is also a vegetarian that likes leafy foods, such as salads and spinach.
 
-
 <br/><br/><br/><br/>
 
 ## SOFTWARE TEAM
-
-**Anton Nikotenko**: Third year software engineering student currently working for Codan Communications. Also working on OpenCV vision dection, and improvements to our code structure and workflow. Anton loves Summer.
 	
-<br/>
+
+
+**Alec Cox**
+Fourth year software engineering student developing Polaris's motor control system.
 
 **Robert Keen**: Third year software engineering student. Currently developing OpenCV vision algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 
-<br/><br/>							
-**Aman Nijjar**: Fourth year computer engineering student that enjoys building AUVs. Currently learning about machine learning with vision. His preffered sport is Basketball and can cook a mean omelet.
+<br/>							
+**Aman Nijjar**: Fourth year computer engineering student that enjoys building AUVs. Currently learning about machine learning with vision. His preferred sport is Basketball and can cook a mean omelet.
 
-<br/>
-							
-**Huiwen Ren**: Third year computer science student. Currently working on OpenCV vision detection. Enjoys cold noodles.
-	
-<br/>
-							
-**Liam Loucks**: Fouth year computer science student. Liam is a master of all things web related and is our current Webmaster.
-	
-<br/>
-							
-**Oscar Morrison**: Second year computer science student. Currently working on OpenCV vision detection.
-	
 <br/>
 
 **Adam Pachecoamit**: 
 First year computer science student who enjoys learning about machine learning and music.</p>
-
 
 <br/><br/><br/><br/>
 
@@ -152,9 +130,27 @@ Second year mechanical engineering student designing new kill switch for Polaris
 **Bob**:
 First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
+<br/>
+
+**Peyton Avigdor**:
+
+
+<br/>
+
+**Terry Welton**:
+
+\--
+-----
+
 <br/><br/><br/><br/>
 
 ## ALUMNI
+
+**Gabriel Green**
+
+Electrical engineering UVIC graduate. Currently passing on knowledge of embedded systems and submarine design to new members. Designing Hydrophone pre-amplifier with Kevin House. Enjoys biking and traveling to Vancouver.
+
+<br/>
 
 **Silvano Todesco**:
 Electrical Engineer graduate working in Japan. Silvano revised the Polaris submarine's power regulation board.Enjoys traveling and spending time with his family.
@@ -178,4 +174,3 @@ Electrical Engineer graduate working in Japan. Silvano revised the Polaris subma
 **RJ Aujla**
 
 <!--EndFragment-->
-
