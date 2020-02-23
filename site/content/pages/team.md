@@ -34,7 +34,8 @@ Third year software engineering student establishing and maintaining connections
 
 ##### LEAD MECHANICAL ENGINEER
 
-Open Position
+**Bob**:
+First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
 <br/><br/>
 
@@ -97,15 +98,16 @@ Fourth year computer engineering student that formerly working for Intel. Damon 
 <br/><br/><br/><br/>
 
 ## SOFTWARE TEAM
-	
-
 
 **Alec Cox**
 Fourth year software engineering student developing Polaris's motor control system.
 
+<br/>
+
 **Robert Keen**: Third year software engineering student. Currently developing OpenCV vision algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 
-<br/>							
+<br/>
+
 **Aman Nijjar**: Fourth year computer engineering student that enjoys building AUVs. Currently learning about machine learning with vision. His preferred sport is Basketball and can cook a mean omelet.
 
 <br/>
@@ -127,20 +129,13 @@ Second year mechanical engineering student designing new kill switch for Polaris
 
 <br/>
 
-**Bob**:
-First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
-
-<br/>
-
 **Peyton Avigdor**:
-
 
 <br/>
 
 **Terry Welton**:
 
-\--
------
+## \--
 
 <br/><br/><br/><br/>
 
