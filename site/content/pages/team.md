@@ -4,46 +4,60 @@ title: Team
 date: '2017-05-17T13:03:58-04:00'
 description: CURRENT MEMBERS OF SPRING 2020
 ---
-# Faculty Involvement
+## Faculty Involvement
 
 **Dr. Bradley Buckham** 
-<p>Member of the University of Victoria's Mechanical Engineering Department. Dr. Buckham researches wave energy generation and intelligent navigation/control of undersea vehicles. His extensive work with autonomous vehicles has provided AUVIC with knowledge and expertise which has greatly contributed to the success of the team.</p>
+Member of the University of Victoria's Mechanical Engineering Department. Dr. Buckham researches wave energy generation and intelligent navigation/control of undersea vehicles. His extensive work with autonomous vehicles has provided AUVIC with knowledge and expertise which has greatly contributed to the success of the team.
 
-# Student Members
-## Administration
+## Student Members
+
+### Administration
 
 **President - Aman Nijjar**
-<p>Fourth year computer engineering student with an interest in underwater communication. His preferred sport is Basketball and enjoys cooking different omelets.</p>
+
+Fourth year computer engineering student with an interest in underwater communication. His preferred sport is Basketball and enjoys cooking different omelets.
 
 **Project Manager - Anton Nikotenko** 
-<p>Third year software engineering student currently working for Codan Communications. Also working on OpenCV vision dection and improvements to our code structure and workflow. Anton loves Summer.</p>
+
+Third year software engineering student currently working for Codan Communications. Also working on OpenCV vision dection and improvements to our code structure and workflow. Anton loves Summer.
 
 **VP of External Affairs - Karan Dere**
-<p>Second year mechanical engineering student. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.</p>
 
+Second year mechanical engineering student. Working out, cooking, watching the Dark Knight, Karan does it all. He also likes pasta.
 
-## Electrical team
-**Lead Electrical Engineer - Poorna Chander kalidas**
-<p>Fourth year electrical engineering student and talented firmware developer for Tesla US. Poorna is developing new firmware architecture, while training team on good practices.</p>
+### Electrical team
+
+**Lead Electrical Engineer - Poorna Chander Kalidas**
+
+Fourth year electrical engineering student and talented firmware developer for Tesla US. Poorna is developing new firmware architecture, while training team on good practices.
 
 **Miguel Manguerra**
+
 <!--<p>Second year computer engineering student and hard worker. Quick to learn new things and loves to develop hardware. Enjoys playing team-based video games.</p>
 -->
+
 **Shuhang Tan**
+
 <!--<p>Second year electrical engineering student showing dedication and participation. Enjoys playing the piano for friends and family.</p>
 -->
+
 **Carter Cooper**
+
 <!--<p>Second year electrical engineering student learning how to program our stm boards and fix power supplies. Hobbies include sitting still and not talking. Big proponent of being a good person.</p>
 -->
+
 **Marie Nikkel**
+
 <!--<p>Second year electrical engineering student that is speeding through her career. Marie is developing a PCB to display our submarines status through LEDs!!! and also learning some firmware on the side, with 6 classes to boot! She enjoys living life on the edge with her roomates.</p>
 -->
+
 **Aman Nijjar**
 
-
 ## SOFTWARE TEAM
+
 **Lead Software Engineer - Rob Wasmann**
-<p>Rob is just a traveler in time working on 4th year studies in computer science. When not at the beach, he’s doing dev on the AI algorithms that ultimately drive Polaris. Rob has previously published several apps and games in the iOS App Store.</p>
+
+Rob is just a traveler in time working on 4th year studies in computer science. When not at the beach, he’s doing dev on the AI algorithms that ultimately drive Polaris. Rob has previously published several apps and games in the iOS App Store.
 
 **Oscar**
 
@@ -55,10 +69,11 @@ description: CURRENT MEMBERS OF SPRING 2020
 
 **Liam**
 
+### MECHANICAL TEAM
 
-## MECHANICAL TEAM
 **Lead Mechanical Engineer - Bob Noakes**:
-<p>First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.</p>
+
+First year mechanical engineering graduate student working with the bio-medical faculty. Bob enjoys to hike on trails , camps in the wilderness, and is a tough guy. He is working on a buoyancy system for the submarine.
 
 **Karan Dere**
 
@@ -66,44 +81,46 @@ description: CURRENT MEMBERS OF SPRING 2020
 
 **Terry Welton**
 
+## ALUMNI
 
+* 2000-2020:
+  **Gabriel Green**,
+  **Silvano Todesco**,
+  **Chris Carpenter**,
+  **Andy Bates**,
+  **Kiera Lane**,
+  **Angel Manguerra**,
+  **Shan Leung**,
+  **Lyden Carvalhal-Smith**,
+  **Anuraag Sinha**,
+  **Keifer Alden**,
+  **RJ Aujla**
 
-
-# ALUMNI
-- 2000-2020:
-**Gabriel Green**,
-**Silvano Todesco**,
-**Chris Carpenter**,
-**Andy Bates**,
-**Kiera Lane**,
-**Angel Manguerra**,
-**Shan Leung**,
-**Lyden Carvalhal-Smith**,
-**Anuraag Sinha**,
-**Keifer Alden**,
-**RJ Aujla**
-
-<!-- **Robert Keen**
+<!-- \*\*Robert Keen\*\*
 Third year software engineering student establishing and maintaining connections with the UVic administration and outside parties. Currently developing OpenCV algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 -->
-<!--**Jason McCormick**:
+
+<!--\*\*Jason McCormick\*\*:
 Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
 -->
-<!--**Kevin House**
+
+<!--\*\*Kevin House\*\*
 <p>Third year electrical engineering student with a background in construction. Developed the 2019 revision of the hydrophone pre-amplifier with Gabriel Green. Loves making music and DJing.</p>
 -->
 
-<!--**Damon Aknuh**
+<!--\*\*Damon Aknuh\*\*
 <p>Fourth year computer engineering student that formerly working for Intel. Damon likes to meet new people and try different activities. He is also a vegetarian that likes leafy foods, such as salads and spinach.</p>
 -->
-<!--**Jason Poon**
+
+<!--\*\*Jason Poon\*\*
 <p>Fourth year computer student working on the RPM controller for the motor controller. Enjoys working for the club and learning new concepts.</p>
 -->
-<!--**Alec Cox**
+
+<!--\*\*Alec Cox\*\*
 Fourth year software engineering student developing Polaris's motor control system.
 -->
 
-<!--**Adam Pachecoamit**: 
+<!--\*\*Adam Pachecoamit\*\*: 
 First year computer science student who enjoys learning about machine learning and music.</p>
 -->
 
