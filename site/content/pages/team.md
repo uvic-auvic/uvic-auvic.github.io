@@ -71,52 +71,58 @@ First year mechanical engineering graduate student working with the bio-medical 
 
 **Karan Dere**
 
+Karan is a 3rd year mechanical engineering student who enjoys movies, cooking and working out. At the moment, Karan is working on a new torpedo system.
+
 **Peyton Avigdor**
 
+Peyton is a 2nd year mechanical engineering student who enjoys rugby, mountain biking and pizza. He is currently working on the ball dropper for Polaris.
+
 **Terry Welton**
+
+Terry is originally from Kelowna, and has recently completed Camosun's mechanical engineering bridge program. He enjoys the outdoors, and is currently working on the grabber arm for Polaris
 
 <!-- WAY To glitchy, figure out later
 ## ALUMNI
 
 2000-2020:
-\*\*Gabriel Green\*\*,
-\*\*Silvano Todesco\*\*,
-\*\*Chris Carpenter\*\*,
-\*\*Andy Bates\*\*,
-\*\*Kiera Lane\*\*,
-\*\*Angel Manguerra\*\*,
-\*\*Shan Leung\*\*,
-\*\*Lyden Carvalhal-Smith\*\*,
-\*\*Anuraag Sinha\*\*,
-\*\*Keifer Alden\*\*,
-\*\*RJ Aujla\*\*
+\\*\\*Gabriel Green\\*\\*,
+\\*\\*Silvano Todesco\\*\\*,
+\\*\\*Chris Carpenter\\*\\*,
+\\*\\*Andy Bates\\*\\*,
+\\*\\*Kiera Lane\\*\\*,
+\\*\\*Angel Manguerra\\*\\*,
+\\*\\*Shan Leung\\*\\*,
+\\*\\*Lyden Carvalhal-Smith\\*\\*,
+\\*\\*Anuraag Sinha\\*\\*,
+\\*\\*Keifer Alden\\*\\*,
+\\*\\*RJ Aujla\\*\\*
 -->
 
-<!-- \\\*\\\*Robert Keen\\\*\\\*
+<!-- \\\\*\\\\*Robert Keen\\\\*\\\\*
 Third year software engineering student establishing and maintaining connections with the UVic administration and outside parties. Currently developing OpenCV algorithms for buoy detection. Enjoys lifting weights and producing cinematic brilliance.
 -->
 
-<!--\\\*\\\*Jason McCormick\\\*\\\*:
+<!--\\\\*\\\\*Jason McCormick\\\\*\\\\*:
 Third year mechanical engineering student developing a grabber arm for the manipulation tasks of the competition. Enjoys spending time with friends.
 -->
 
-<!--\\\*\\\*Kevin House\\\*\\\*
+<!--\\\\*\\\\*Kevin House\\\\*\\\\*
 <p>Third year electrical engineering student with a background in construction. Developed the 2019 revision of the hydrophone pre-amplifier with Gabriel Green. Loves making music and DJing.</p>
 -->
 
-<!--\\\*\\\*Damon Aknuh\\\*\\\*
+<!--\\\\*\\\\*Damon Aknuh\\\\*\\\\*
 <p>Fourth year computer engineering student that formerly working for Intel. Damon likes to meet new people and try different activities. He is also a vegetarian that likes leafy foods, such as salads and spinach.</p>
 -->
 
-<!--\\\*\\\*Jason Poon\\\*\\\*
+<!--\\\\*\\\\*Jason Poon\\\\*\\\\*
 <p>Fourth year computer student working on the RPM controller for the motor controller. Enjoys working for the club and learning new concepts.</p>
 -->
 
-<!--\\\*\\\*Alec Cox\\\*\\\*
+<!--\\\\*\\\\*Alec Cox\\\\*\\\\*
 Fourth year software engineering student developing Polaris's motor control system.
 -->
 
-<!--\\\*\\\*Adam Pachecoamit\\\*\\\*: 
+<!--\\\\*\\\\*Adam Pachecoamit\\\\*\\\\*: 
 First year computer science student who enjoys learning about machine learning and music.</p>
 -->
 
