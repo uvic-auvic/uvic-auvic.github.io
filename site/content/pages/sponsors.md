@@ -22,6 +22,7 @@ AUVIC is a multi-disciplinary, student driven team that competes in the Robonati
 
 ![rainhouse](/img/rainhouse-logo.png)
 ![uvicess](/img/uvicess-logo.png)
+![Altair](/img/Altair_horizontal-Logo.jpg)
 ![pcbway](/img/pcbway-logo.png)
 ![oceannetworkscanada](/img/oceannetworkscanada-logo.png)
 ![mathworks](/img/mathworks-logo.png)
