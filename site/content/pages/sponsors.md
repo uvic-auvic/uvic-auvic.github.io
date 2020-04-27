@@ -3,6 +3,7 @@ url: /sponsors
 title: Sponsors
 date: '2017-05-17T13:03:58-04:00'
 description: Sponsors
+image: /site/static/img/uploads/kiewit-logo.png
 ---
 ## SUPPORT THE TEAM
 
@@ -18,7 +19,7 @@ You can support the team by giving a monetary or material donation. Or you can s
 
 AUVIC is a multi-disciplinary, student driven team that competes in the Robonation international competition, RoboSub. The team develops an AUV to complete challenges set by RoboSub administrators involving object manipulation, path tracking, acoustic beacon tracking, visual recognition, and obstacle avoidance. In past competitions, AUVIC has come in second place.
 
-![Kiewit](/img/kiewit-logo.jpg)
+![Kiewit](/img/kiewit-logo.png)
 ![rainhouse](/img/rainhouse-logo.png)
 ![uvicess](/img/uvicess-logo.png)
 ![pcbway](/img/pcbway-logo.png)
