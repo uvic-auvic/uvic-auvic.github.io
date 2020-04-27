@@ -6,8 +6,8 @@ description: Sponsors
 image: /site/static/img/uploads/kiewit-logo.png
 ---
 ## SPONSORS
-<img  src="/img/kiewit-logo.png" alt="kiewit"
-	title="top-tier" align="left" width="714" height="491" />
+<img src="/img/kiewit-logo.png" alt="kiewit" title="top-tier" align="left" width="714" height="491" />  
+
 ![Kiewit](/img/kiewit-logo.png)
 ![rainhouse](/img/rainhouse-logo.png)
 ![uvicess](/img/uvicess-logo.png)
