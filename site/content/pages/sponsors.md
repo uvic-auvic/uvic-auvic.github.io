@@ -6,7 +6,10 @@ description: Sponsors
 image: /site/static/img/uploads/kiewit-logo.png
 ---
 ## SPONSORS
-<img src="/img/kiewit-logo.png" alt="kiewit" title="top-tier" align="left" />  
+
+```
+<img src="/img/kiewit-logo.png" alt="kiewit" title="top-tier" align="left" />  
+```
 
 ![Kiewit](/img/kiewit-logo.png)
 ![rainhouse](/img/rainhouse-logo.png)
@@ -24,7 +27,3 @@ image: /site/static/img/uploads/kiewit-logo.png
 You can support the team by giving a monetary or material donation. If you would like to support the Autonomous Underwater Vehicle Interdisciplianry Club, please contact us at auvic@uvic.ca or give us a call at (250)-742-4178.
 
 [Sponsor AUVIC](https://extrweb.uvic.ca/donate-online/auvic)
-
-<a href="https://extrweb.uvic.ca/donate-online/auvic">
-<button style="color:#008CBA;" type="button">Sponsor AUVIC</button>
-</a>
