@@ -7,9 +7,7 @@ image: /site/static/img/uploads/kiewit-logo.png
 ---
 ## SPONSORS
 
-```
-<img src="/img/kiewit-logo.png" alt="kiewit" title="top-tier" align="left" />  
-```
+`<img src="/img/kiewit-logo.png" alt="kiewit" title="top-tier" align="left" />  `
 
 ![Kiewit](/img/kiewit-logo.png)
 ![rainhouse](/img/rainhouse-logo.png)
